@@ -34,7 +34,7 @@ degree:     BSc Computer Science — University of Alberta (2026)
 focus:      IT Support · Cybersecurity · Network Security
 ```
 
-I'm a CS student at the UofA, bridging the gap between **security research** and **practical IT operations**. Documentation is key: A motto I abide by in every homelab, while treating every troubleshooting scenario like a real ticket.
+CS student at the UofA, bridging the gap between **security research** and **practical IT operations**. Documentation is key: A motto I abide by in every homelab, while treating every troubleshooting scenario like a real ticket.
 
 - 🏆 **3rd Place** — CHADS Cybersecurity Hackathon 2026
 - 🛡️ Studying **CompTIA Security+** (SY0-701)
