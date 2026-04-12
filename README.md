@@ -32,12 +32,12 @@ degree:     BSc Computer Science — University of Alberta (2026)
 focus:      IT Support · Cybersecurity · Network Security
 ```
 
-I'm a CS student who bridges the gap between **security research** and **practical IT operations**. I don't just take courses — I document every lab, build homelabs, and treat every troubleshooting scenario like a real ticket.
+I'm a CS student at the UofA, bridging the gap between **security research** and **practical IT operations**. Documentation is key: A motto I abide by in every homelab, while treating every troubleshooting scenario like a real ticket.
 
 - 🏆 **3rd Place** — CHADS Cybersecurity Hackathon 2026
 - 🛡️ Studying **CompTIA Security+** (SY0-701)
 - 🔵 Completed: **TryHackMe Active Directory Basics** + Pre-Security Path
-- 🏢 Former IT Ops Intern @ **Pembina Pipelines** — Power Automate RPA, M365, SAP
+- 🏢 Former Mechanical Engineering Intern @ **Pembina Pipelines** — Power Automate RPA, M365, SAP
 - 📝 Philosophy: *"The write-up is part of the work."*
 
 ---
