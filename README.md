@@ -2,7 +2,7 @@
 
 <!-- Animated typing header -->
 <a href="https://github.com/Djay23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Oreva+%F0%9F%91%8B;IT+Support+%26+Cybersecurity+Student;Active+Directory+%7C+Help+Desk+%7C+Networking;Always+learning%2C+always+documenting." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Oreva+%F0%9F%91%8B;IT+Support+%26+Cybersecurity+Enthusiast;Active+Directory+%7C+Help+Desk+%7C+Networking;Always+learning%2C+always+documenting." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
 <a href="https://tryhackme.com">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
-<a href="https://github.com/Djay23/Djay23/blob/main/Oreva_IT_HelpDesk">
+<a href="https://github.com/Djay23/Djay23/blob/main/Oreva_IT_HelpDesk.pdf">
   <img src="https://img.shields.io/badge/Resume-View%20PDF-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
