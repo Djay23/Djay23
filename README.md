@@ -107,7 +107,7 @@ I'm a CS student at the UofA, bridging the gap between **security research** and
 - [ ] Finishing **CompTIA Security+** (SY0-701)
 - [ ] Completing **osTicket lab** with full SLA configs + ticket screenshots
 - [ ] Prepping for **Azure Fundamentals (AZ-900)**
-- [ ] Expanding CMPUT 333 write-ups with annotated Wireshark captures
+- [ ] Engineering an automated Internship webscraper
 - [ ] Building a **Windows Server home lab** in VirtualBox (DC + client VM + GPOs)
 
 ---
