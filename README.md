@@ -92,7 +92,7 @@ CS student at the UofA, bridging the gap between **security research** and **pra
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -105,6 +105,7 @@ CS student at the UofA, bridging the gap between **security research** and **pra
 </div>
 
 ---
+-->
 
 ## 🎯 What I'm Working On
 
