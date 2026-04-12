@@ -92,7 +92,7 @@ CS student at the UofA, bridging the gap between **security research** and **pra
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
-<!--
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,7 +103,7 @@ CS student at the UofA, bridging the gap between **security research** and **pra
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Djay23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff" width="40%" />
 </div>
--->
+
 ---
 
 ## 🎯 What I'm Working On
