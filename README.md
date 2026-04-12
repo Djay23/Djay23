@@ -17,7 +17,7 @@
 <a href="https://tryhackme.com">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 </a>
-<a href="https://github.com/Djay23/Djay23/blob/main/oreva_resume.pdf">
+<a href="https://github.com/Djay23/Djay23/blob/main/Oreva_IT_HelpDesk">
   <img src="https://img.shields.io/badge/Resume-View%20PDF-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
