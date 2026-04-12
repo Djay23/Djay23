@@ -72,6 +72,7 @@ I'm a CS student at the UofA, bridging the gap between **security research** and
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003087?style=flat-square&logo=microsoft&logoColor=white)
 
 **Networking & Security**
