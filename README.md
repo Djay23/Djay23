@@ -83,6 +83,7 @@ I'm a CS student at the UofA, bridging the gap between **security research** and
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -119,7 +120,7 @@ I'm a CS student at the UofA, bridging the gap between **security research** and
 | CompTIA Security+ (SY0-701) | CompTIA | 🔄 In Progress |
 | Active Directory Basics | TryHackMe | ✅ Complete |
 | Pre-Security Path | TryHackMe | ✅ Complete |
-| Network Security (TCP/IP, OSI, DNS/DHCP) | CMPUT 333 — UofA | ✅ Complete |
+| Network Security (TCP/IP, OSI, DNS/DHCP) | UofA | ✅ Complete |
 | Azure Fundamentals (AZ-900) | Microsoft | 🔜 Up Next |
 
 ---
