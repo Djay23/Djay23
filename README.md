@@ -48,10 +48,10 @@ CS student at the UofA, bridging the gap between **security research** and **pra
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🔵 [**active-directory-lab**](https://github.com/Djay23/active-directory-lab) | Deployed AD DS environment with Domain Controllers, OUs, GPOs, and PowerShell user management. Full documentation included. | `Windows Server` `PowerShell` `GPOs` |
+| 🔵 [**active-directory-lab**](https://github.com/Djay23/cybersecurity-labs/tree/main/active-directory) | Deployed AD DS environment with Domain Controllers, OUs, GPOs, and PowerShell user management. Full documentation included. | `Windows Server` `PowerShell` `GPOs` |
 | 🎫 [**ticketing-system-lab**](https://github.com/Djay23/ticketing-system-lab) | Configured osTicket end-to-end: SLA tiers, help topics, Tier 1 scenario walkthroughs, and KB articles. | `osTicket` `ITSM` `SLA` |
-| 🔐 [**cmput333-security-labs**](https://github.com/Djay23/cmput333-security-labs) | Security lab write-ups: Wireshark (RSA vs plaintext), SQL injection, buffer overflow exploit dev, password cracking. | `Wireshark` `Python` `GDB` `Bash` |
-| 🐳 [**lime-distribution-app**](https://github.com/Djay23/lime-distribution-app) | CMPUT 404 web app containerized with Docker Compose — bridge networks, port mapping, multi-service architecture. | `Docker` `Python` `Web Architecture` |
+| 🔐 [**security-labs**](https://github.com/Djay23/cmput333-security-labs) | Security lab write-ups: Wireshark (RSA vs plaintext), SQL injection, buffer overflow exploit dev, password cracking. | `Wireshark` `Python` `GDB` `Bash` |
+| 🐳 [**Federated-distribution-app**](https://github.com/Djay23/federated-distribution-app) | CMPUT 404 web app containerized with Docker Compose — bridge networks, port mapping, multi-service architecture. | `Docker` `Python` `Web Architecture` |
 | 💻 [**os-recovery-lab**](https://github.com/Djay23/os-recovery-lab) | Cross-platform OS recovery: macOS Sierra bootable drive built from Windows via diskpart. Documented troubleshooting methodology. | `macOS` `Windows` `diskpart` |
 
 ---
